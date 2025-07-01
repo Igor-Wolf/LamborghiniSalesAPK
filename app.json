@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "lamborghini-garage",
+    "slug": "lamborghini-garage",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/lambLogo.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/lambLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/lambLogo.png",
+        "backgroundColor": "#000000"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/lambLogo.png"
+    }
+  }
+}
